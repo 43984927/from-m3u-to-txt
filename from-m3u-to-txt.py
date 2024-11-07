@@ -8,7 +8,7 @@ if not os.path.exists('./IPTV/'):
     os.makedirs('./IPTV/')
 
 # 文件 URL
-url = "https://A.com/IPTV/main/IPTV.m3u"
+url = "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"
 
 # 下载 IPTV.m3u 文件
 file_path = "./IPTV/IPTV.m3u"
