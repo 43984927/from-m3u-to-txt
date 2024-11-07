@@ -29,5 +29,4 @@ jobs:
         python-version: '3.x'
 
     - name: Run search_Tv.py
-      run: |
-          python from-m3u-to-txt.py
+      run: python from-m3u-to-txt.py
